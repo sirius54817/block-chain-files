@@ -43,7 +43,7 @@ Ensure you have the following tools and dependencies installed on your system be
 1. Clone this repository:
 
 ```
-git clone https://github.com/solstxce/AmadeusX.git
+https://github.com/sirius54817/block-chain-files.git
 ```
 
 2. Install the required packages:
