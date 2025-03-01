@@ -1,5 +1,6 @@
 window.CONTRACT = {
-  address: "0x07ada47913280cc54017bef825e31f6f3ecf40a7",
+  // address: "0x07ada47913280cc54017bef825e31f6f3ecf40a7",
+  address: "0xd9145CCE52D386f254917e481eB44e9943F39138",
   network: "https://ethereum-sepolia-rpc.publicnode.com",
   explore: "https://sepolia.etherscan.io/",
   abi: [
